@@ -1,9 +1,13 @@
-### Hi there 👋
+Hi there 👋
 
-I'm interested Meachine learning,data analysis
+I'm interested Meachine learning,data-analysis using Python.
 
-Also in Python,Java
 
+
+
+
+### Skills
+Tools & Language
 
 <img src="https://img.shields.io/badge/Python-3766AB??style=flat&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenCV-yellow?s?style=flat&logo=OpenCV&logoColor=white"/></a>
