@@ -11,3 +11,6 @@ Also in Python,Java
 <img src="https://img.shields.io/badge/Tensorflow-lightgray?s?style=flat&logo=Tensorflow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-orange?s?style=flat&logo=appveyor&logoColor=white"/></a>
 
+
+![Eunhye's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunhyekoo&show_icons=true&theme=radical)
+
